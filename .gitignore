@@ -1,0 +1,150 @@
+.bundle.
+lib
+node_modules
+.egg-info
+.ipynb_checkpoints
+.tsbuildinfo
+
+# Created by httpswww.gitignore.ioapipython
+# Edit at httpswww.gitignore.iotemplates=python
+
+### Python ###
+# Byte-compiled  optimized  DLL files
+__pycache__
+.py[cod]
+$py.class
+
+# C extensions
+.so
+
+# Distribution  packaging
+.Python
+build
+develop-eggs
+dist
+downloads
+eggs
+.eggs
+lib
+lib64
+parts
+sdist
+var
+wheels
+pip-wheel-metadata
+sharepython-wheels
+.installed.cfg
+.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject dateother infos into it.
+.manifest
+.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test  coverage reports
+htmlcov
+.tox
+.nox
+.coverage
+.coverage.
+.cache
+nosetests.xml
+coverage.xml
+.cover
+.hypothesis
+.pytest_cache
+
+# Translations
+.mo
+.pot
+
+# Scrapy stuff
+.scrapy
+
+# Sphinx documentation
+docs_build
+
+# PyBuilder
+target
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+.sage.py
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# mkdocs documentation
+site
+
+# mypy
+.mypy_cache
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre
+
+# OS X stuff
+.DS_Store
+
+# End of httpswww.gitignore.ioapipython
+
+_temp_extension
+junit.xml
+[uU]ntitled
+notebookstatic
+!notebookstaticfavicons
+notebooklabextension
+notebookschemas
+docssourcechangelog.md
+docssourcecontributing.md
+
+# playwright
+ui-teststest-results
+ui-testsplaywright-report
+
+# VSCode
+.vscode
+
+# RTC
+.jupyter_ystore.db
+
+# yarn =2.x local files
+.yarn
+.pnp.
+ui-tests.yarn
+ui-tests.pnp.
+
+# keep potential upstream patches
+!.yarnpatches
+
+# generated html
+notebooktemplates.html
+
+# pixi environments
+.pixi
+.egg-info
+
+# Temporary files used for testing
+tmp
